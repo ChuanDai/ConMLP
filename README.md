@@ -39,7 +39,7 @@ python main_train.py
 python main_train.py 
 --method=Supervised 
 --model=resnet50
---dataset=NTU60CV 
+--dataset=NTU120CSet
 --epochs=5000 
 --batch_size=512
 --learning_rate=0.001 
